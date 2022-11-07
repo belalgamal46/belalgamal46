@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Belal Gamal <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">
 
-<!--
-**belalgamal46/belalgamal46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently in Microverse, it's an online school to be a full-stack developer we work in an intense environment 8 hours a day, and we work with people from all over the world in a collaborative environment and pair-programming together on projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack:
+
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby On Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
+
+# About Me
+I am a full stack developer, I am very passionate about programming I love to build websites in my free time and learn new things and new programming languages, my habits is to build things so anything that contains build I will fall in love 😂 😂 😂
+
+
+# 📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belal-gamal-79b8a2133/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/belal.gamal.796)
