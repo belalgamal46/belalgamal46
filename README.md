@@ -3,7 +3,7 @@
 🔭 I’m currently in Microverse, it's an online school to be a full-stack developer we work in an intense environment 8 hours a day, and we work with people from all over the world in a collaborative environment and pair-programming together on projects.
 
 
-Stack:
+**Stack:**
 
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
